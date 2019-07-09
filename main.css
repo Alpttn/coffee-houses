@@ -1,0 +1,19 @@
+
+.pageHeader {
+    display: flex;
+    justify-content: center;
+    margin: 2%
+}
+
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+   
+}
+    
+.shop {  
+    flex-grow: 1;
+    flex: 1 1 30%;
+    height: 20px;
+}
